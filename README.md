@@ -1,2 +1,2 @@
-# SnakeBetterThanSlitherIO
-Snake made in Java using Intelij IDEA
+# BetterSlitherIO
+Simple game in java
